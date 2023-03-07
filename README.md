@@ -9,16 +9,18 @@
   </h1>
 </a>
 
-Aplicativo com conexão com a API https://pokeapi.co/ para consultas de Pokémons. Projeto final de conclusão para a disciplina de Mobile Development FIAP.
+Aplicativo com conexão com a API https://pokeapi.co/ para consultas de Pokémons com verificação de usuário na tela de splash, login e cadastro via Firebase Authentication. Projeto final de conclusão para a disciplina de Mobile Development FIAP.
 
 ## Features
 
 - Tela de login :heavy_check_mark:
 - Consulta lista de Pokémons :heavy_check_mark:
 - Conexão com https://pokeapi.co/ :heavy_check_mark:
+- Firebase Authentication :heavy_check_mark:
 
 ## Tech Stack
 Tecnologias utilizadas
 - Dart
 - Flutter
 - Github Features
+- Firebase
